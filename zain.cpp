@@ -14,10 +14,7 @@ int main(){
         }
     }
     cout<<"Not found";
-<<<<<<< HEAD
-=======
     cout<<"Usman Conflict Merge"<<endl;
->>>>>>> FixBranch
     cout<<"This means no pair is found";
     return 0;
 }
